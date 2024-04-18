@@ -6,4 +6,5 @@ Erster Test
 
 Änderung aus Branch 2 und im MAIN
 
-"Werteänderung ausgehend von Branch 2.1"
+"Veränderung aus Branch 3 + Werteänderung ausgehend von Branch 2.1"
+
